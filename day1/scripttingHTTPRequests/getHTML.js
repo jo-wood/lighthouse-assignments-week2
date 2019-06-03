@@ -1,5 +1,7 @@
 
 
+//***  running getHTML without modulizing 
+
 var https = require('https');
 
 var requestOptions = {
