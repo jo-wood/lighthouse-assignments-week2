@@ -6,16 +6,7 @@ var requestOptions = {
   path: '/http-examples/step6/1337.html'
 };
 
-  //13375p34k
-function leetspeak(html) {
-
-
-
-}
-
-getHTML(requestOptions, leetspeak);
-
-let codes = {
+var codes = {
   a: '4',
   e: '3',
   l: '1',
@@ -26,3 +17,12 @@ let codes = {
   'er': '0r',
   'you': 'j00'
 }
+
+function leetspeak(html) {
+
+
+
+} //13375p34k
+
+getHTML(requestOptions, leetspeak);
+
